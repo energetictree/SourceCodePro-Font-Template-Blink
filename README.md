@@ -1,5 +1,5 @@
 
-# Fonts template for blink shell on iOS
+# CSS Fonts template for blink shell on iOS
 
 ## SourceCodePro-Font-Template-Blink
 Based on Falkor DotFiles https://github.com/Falkor/dotfiles/blob/master/fonts/SourceCodePro%2BPowerline%2BAwesome%2BRegular.ttf
