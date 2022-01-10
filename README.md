@@ -1,6 +1,7 @@
-# SourceCodePro-Font-Template-Blink
-Template for blink shell on iOS
 
+# Fonts template for blink shell on iOS
+
+## SourceCodePro-Font-Template-Blink
 Based on Falkor DotFiles https://github.com/Falkor/dotfiles/blob/master/fonts/SourceCodePro%2BPowerline%2BAwesome%2BRegular.ttf
 
 To be used if you use powerlevel10k as your zsh theme https://github.com/romkatv/powerlevel10k
